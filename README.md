@@ -33,3 +33,5 @@ Challenge 2: Computational Efficiency:
 
 5. Conclusion
 This report presented the evaluation of Context Precision and Context Recall for a RAG-based chatbot. The implementation of an enhanced retrieval algorithm and context filtering mechanism significantly improved both metrics, leading to a more accurate and comprehensive retrieval of relevant context.
+
+Youtube Link: https://youtu.be/7ZUhUtfXTBo
